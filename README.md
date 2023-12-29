@@ -1,0 +1,2 @@
+# podstawyGitNauka
+Nauka podstaw gita
